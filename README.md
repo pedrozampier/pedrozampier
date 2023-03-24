@@ -19,3 +19,5 @@
 </div><br/>
 
 Entusiasta da área de desenvolvimento, sou altamente motivado a me aprimorar constantemente.
+
+![snake gif](https://github.com/pedrozampier/pedrozampier/blob/output/github-contribution-grid-snake.svg)
