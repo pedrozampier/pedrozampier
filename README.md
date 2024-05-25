@@ -2,7 +2,6 @@
 ### Olá! Me chamo Pedro Zampier, seja bem vindo ao meu perfil! 🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ot%C3%A1vio-probst-zampier-57775822a/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/b4k6MyMhx3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_probst/)
 
 ![Zampier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozampier&show_icons=true&theme=dracula)
@@ -18,4 +17,4 @@
   
 </div><br/>
 
-Entusiasta da área de desenvolvimento, sou altamente motivado a me aprimorar constantemente.
+Hi there! I'm a passionate Full Stack Developer with a keen interest in creating dynamic and responsive web applications. My technical expertise lies in working with PHP/Laravel, Vue.js, and Node.js. I am currently pursuing a degree in Internet Systems Technology at the Federal University of Technology – Paraná (UTFPR).
