@@ -4,8 +4,6 @@ Hi there! I'm a passionate Full Stack Developer with a keen interest in creating
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ot%C3%A1vio-probst-zampier-57775822a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_probst/)
 
-![Zampier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozampier&show_icons=true&theme=dracula)
-
 ![pedrozampier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrozampier&theme=vue-dark&hide_border=true)
 
 <div style="display: inline_block"><br/>
