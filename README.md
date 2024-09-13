@@ -1,5 +1,7 @@
 
-Hi there! I'm a passionate Full Stack Developer with a keen interest in creating dynamic and responsive web applications. My technical expertise lies in working with PHP/Laravel, Vue.js, and Node.js. I am currently pursuing a degree in Internet Systems Technology at the Federal University of Technology – Paraná (UTFPR).
+Hello! I'm a full-stack developer with experience in Vue.js, Node.js, and Laravel. Currently, I’m pursuing a degree in Internet Systems Technology at the Federal University of Technology – Paraná. I am constantly driven by the pursuit of knowledge, which inspires me to innovate and improve my solutions continuously.
+
+I am also proficient in English, having completed a three-year language course.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ot%C3%A1vio-probst-zampier-57775822a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_probst/)
