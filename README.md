@@ -7,6 +7,7 @@ I am also proficient in English, having completed a three-year language course.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_probst/)
 
 ![pedrozampier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrozampier&theme=vue-dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozampier&hide=contribs,prs)
 
 <div style="display: inline_block"><br/>
 
